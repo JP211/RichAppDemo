@@ -1,2 +1,2 @@
 # RichAppDemo
-A demo app in swift/xcode using image assets, basic one page app structure
+A demo app in swift/xcode. Basic one page app structure using image assets.
