@@ -1,0 +1,2 @@
+# RichAppDemo
+A demo app
